@@ -1,3 +1,3 @@
 # equalHeights.js
 
-Simple Jquery script to give items an equal height.
+Simple jQuery script to give items an equal height.
