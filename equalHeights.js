@@ -14,7 +14,6 @@ function equalHeight(group,breakpoint) {
 	}
 }
 
-/* Example of how to use this function
 $(document).ready(function() {
 	equalHeight('.group',680);
 	
@@ -23,4 +22,3 @@ $(document).ready(function() {
 	});
 	
 });
-*/
