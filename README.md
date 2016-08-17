@@ -1,6 +1,6 @@
 # equalHeights.js
 
-Simple jQuery script to give items an equal height.
+Simple jQuery script to give items an equal height. I suggest using <a href="http://www.w3schools.com/css/css3_flexbox.asp" target="_blank">CSS Flexbox</a> for equal heights rather than this, if possible.
 
 <pre>
 function equalHeight(group,breakpoint) {
